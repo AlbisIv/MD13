@@ -1,0 +1,18 @@
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90px;
+  padding: 10px;
+}
+.green {
+  background-color: rgb(28, 194, 28);
+}
+.btn__value {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  width: 130px;
+  height: 60px;
+}
